@@ -1,4 +1,4 @@
-Hello i'm updating...from master....
+Hello i'm updating...from master.... MASTER.
 
 #this is for sample file
 
